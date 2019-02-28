@@ -1,2 +1,2 @@
 # Micro-Ondas-Ricardo
-Prova feita em C# como tema Micro-Ondas Digital
+Programa feita em C# como tema Micro-Ondas Digital
